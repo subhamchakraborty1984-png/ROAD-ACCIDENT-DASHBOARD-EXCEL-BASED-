@@ -114,6 +114,27 @@ How to do it:
  <img width="1844" height="692" alt="Screenshot 2026-01-13 194129" src="https://github.com/user-attachments/assets/1a4dde3f-19e8-4e32-9062-155a0b06bce1" />
 
 
+ ## Data Setup Recommendation
+
+ •	Use Pivot Tables behind all visuals
+•	Store raw data in one clean sheet (RoadAccidentData)
+•	Name your ranges or use Excel Tables
+•	Use helper columns (e.g., Year, Month, Light, Road Type Group) for better analysis
+
+## Tools & Features Used
+
+Feature	Use Case
+Pivot Tables:	Aggregating accident data
+Pivot Charts	: Creating dynamic visuals
+Donut Charts:	For % comparison
+Line Charts	: Time-series (month) analysis
+Bar Charts	: Category-wise comparisons
+Slicers	: Interactive filtering
+Shapes/Icons: 	Visual storytelling & linking
+Conditional Formatting	For color indicators
+
+
+
 
 
 
