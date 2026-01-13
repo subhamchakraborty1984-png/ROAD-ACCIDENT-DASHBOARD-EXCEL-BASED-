@@ -1,2 +1,6 @@
-# ROAD-ACCIDENT-DASHBOARD-EXCEL-BASED-
-I developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the data. This process involved several stages,including data preprocessing, data cleaning, and data visualization.
+# Road-Accident-Data-Analyis (Interactive Dashboard creation using Ms Excel)
+
+
+## Purpose of the Dashboard
+This dashboard is created to analyze and visualize road accident data across different factors such as accident severity, vehicle type, road type, lighting condition, and area type (urban/rural). It helps in identifying patterns and supporting data-driven decision-making for road safety initiatives.
+
